@@ -8,3 +8,8 @@
   - Aplicado responsividade através da propriedade @media 
   - Criado modal ao clicar nas receitas através do javascript
 
+___
+
+Veja o site em funcionamento clicando no botão abaixo 
+
+[![Open in Gitpod](https://gitpod.io/button/open-in-gitpod.svg)](https://gitpod.io/#https://github.com/brunotdantas/LaunchBase-foodfy/)
