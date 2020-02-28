@@ -15,6 +15,14 @@
   max-width: 100%;
   height: auto;
 }
+html {
+  height: 100%;
+}
+body {
+  min-height: 100%;
+  display: grid;
+  grid-template-rows: 1fr auto;
+}
 
 header {
   width: 100%;
@@ -138,12 +146,16 @@ header .menu a:first-child {
   transform: translate(-50%, -50%);
 }
 
+/* https://css-tricks.com/couple-takes-sticky-footer/ */
 footer {
   width: 100%;
   background: #eee;
   text-align: center;
   padding-top: 1.5rem;
   padding-bottom: 1.5rem;
+
+  grid-row-start: 2;
+  grid-row-end: 3;
 }
 
 footer p {
