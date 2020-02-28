@@ -14,4 +14,4 @@ ___
 
 Veja o site em funcionamento clicando no botão abaixo 
 
-[![Netlify Status](https://api.netlify.com/api/v1/badges/28e5f99d-5a31-40f5-ba9b-459db2191e77/deploy-status)](https://app.netlify.com/sites/blissful-elion-ca0dbd/deploys)
+[![Netlify Status](https://api.netlify.com/api/v1/badges/28e5f99d-5a31-40f5-ba9b-459db2191e77/deploy-status)](https://blissful-elion-ca0dbd.netlify.com)
