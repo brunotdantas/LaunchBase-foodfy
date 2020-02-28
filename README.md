@@ -8,6 +8,8 @@
   - Aplicado responsividade através da propriedade @media 
   - Criado modal ao clicar nas receitas através do javascript
 
+![demo_foodfy](https://user-images.githubusercontent.com/19207320/75506117-be9df200-59bb-11ea-80d7-c7c553b90542.gif)
+
 ___
 
 Veja o site em funcionamento clicando no botão abaixo 
